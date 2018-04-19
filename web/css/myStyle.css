@@ -1,0 +1,30 @@
+.slider{
+    margin-top: 10px;
+}
+.srcPanel{
+    margin-top: 10px;
+}
+.srcImage img{
+    border: 5px solid;
+    width: 500px;
+    height: 300px;
+}
+.searcBox button{
+    
+}
+.srcboxHeader{
+    padding: 2px 2px 2px 2px;
+    text-align: center;
+    background-color: red;
+    margin-bottom: 3px;
+}
+.footerArea{
+    margin-top: 10px;
+    border-top: #262626 solid medium;
+    background-color: #e3e3e3;
+    padding-top: 3px;
+}
+.footerGoTop{
+    float: right;
+    text-align: right;
+}
